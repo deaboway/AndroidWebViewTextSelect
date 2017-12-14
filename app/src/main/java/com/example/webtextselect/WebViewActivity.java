@@ -16,10 +16,10 @@ public class WebViewActivity extends Activity {
 		setContentView(R.layout.web_url);
 		
 		web = (CustomWebView) findViewById(R.id.web);
-		
-		web.loadUrl("file:///android_asset/content.html");
-		
-		
+
+//		web.loadUrl("file:///android_asset/content.html");
+		web.loadUrl("http://www.deaboway.com");
+
 	}
 
 	@Override
