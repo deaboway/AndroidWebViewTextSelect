@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/copy"
+        android:icon="@drawable/icon_share"
+        android:showAsAction="always"
+        android:title="copy">
+    </item>
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/icon_colloect_selected"
+        android:showAsAction="always"
+        android:title="share">
+    </item>
+</menu>

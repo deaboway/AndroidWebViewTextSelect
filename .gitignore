@@ -1,0 +1,13 @@
+*.iml
+*.class
+.DS_STORE
+.gradle/*
+.idea/*
+build/*
+local.properties
+gradle.properties
+gradlew
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew.bat
+app/build/*
